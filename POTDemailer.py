@@ -175,7 +175,7 @@ def emailAuthor(email,article_link,title,):
 def PODemail():
 	##############################################################################
 	# TESTING TITLE
-	# title = "Enter article title to test on here..."		
+	# title = "Enter article title to test on here..."			
 	##############################################################################
 	##############################################################################
 	# LIVE ARTICLE EMAILER
